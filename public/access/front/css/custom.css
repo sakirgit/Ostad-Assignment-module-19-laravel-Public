@@ -1,0 +1,8 @@
+.posts-entry .blog-entry-search-item .img-link {
+   max-width: 250px;
+   min-width: 250px;
+}
+.post_list .blog-entry:hover h2 a,
+.sidebar-box li:hover a h4{
+   text-decoration: underline;
+}
